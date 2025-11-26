@@ -1,0 +1,12 @@
+PlantDiseaseDetectionApp/
+├── main.py
+├── home_page.jpeg
+├── README.md
+├── training_hist.json
+├── trained_plant_disease_model.keras
+├── Leaf_Deases (1).ipynb
+├── Test_plant_disease.ipynb
+├── Train_plant_disease.ipynb
+├── Leaf Deases(96,88).h5 (dataset)
+
+Link To Dataset - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
